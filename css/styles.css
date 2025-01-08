@@ -80,3 +80,10 @@
     letter-spacing: 0%;
     text-align: center;
 }
+
+/* Card Section */
+
+#card-box{
+    width: 937px;
+    margin: 0 auto;
+}
